@@ -1,6 +1,5 @@
 {
   "name": "github-react-portfolio-template",
-  "homepage": "https://github.com/JoshDeiner/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
